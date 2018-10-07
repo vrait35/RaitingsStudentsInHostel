@@ -1,0 +1,9 @@
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\bin\Debug\StudentRaitingInHostel.exe.config
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\bin\Debug\StudentRaitingInHostel.exe
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\bin\Debug\StudentRaitingInHostel.pdb
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\bin\Debug\StudentsClassesLibrary.dll
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\bin\Debug\StudentsClassesLibrary.pdb
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\obj\Debug\StudentRaitingInHostel.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\obj\Debug\StudentRaitingInHostel.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\obj\Debug\StudentRaitingInHostel.exe
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentRaitingInHostel\obj\Debug\StudentRaitingInHostel.pdb

@@ -1,0 +1,6 @@
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\bin\Debug\StudentsClassesLibrary.dll
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\bin\Debug\StudentsClassesLibrary.pdb
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\obj\Debug\StudentsClassesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\obj\Debug\StudentsClassesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\obj\Debug\StudentsClassesLibrary.dll
+C:\Users\anuar\source\repos\StudentRaitingInHostel\StudentsClassesLibrary\obj\Debug\StudentsClassesLibrary.pdb
